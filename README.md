@@ -21,3 +21,5 @@ Two more relevant data-characteristic terms include:
 
 * **Data Observability:** Observing the performance of and tracking/monitoring data at any point in its lifecycle.
 * **Data Quality:** How accurate and consistent data are. Can the data be used to perform reliable analysis and make informed decisions?
+
+TODO: Add examples of different data repo types and how they operate.
