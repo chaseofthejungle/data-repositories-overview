@@ -2,12 +2,12 @@
   
 #### Table of Contents:
   
-1. Six Data Repository Types/Architectures
-2. Data-Characteristic Terms
+1. [Six Data Repository Types/Architectures](#data-repository)
+2. [Data-Characteristic Terms](#data-terms)
   
 <hr />
   
-## 1. Data Repository Types/Architectures
+## 1. <a name="data-repository">Six Data Repository Types/Architectures</a>
   
 * **Data Fabric:** Allows for distributed data to be quickly and easily accessed, managed, and integrated, uniting data from various sources and providing integration, orchestration, governance, and virtualization.
   + Data silos (data that are disconnected from other parts/units of an organization and its system) can have their data analyzed and readily accessed to support concentrated and informed decision-making.
@@ -27,7 +27,7 @@
 
 <hr />
   
-## 2. Data-Characteristic Terms
+## 2. <a name="data-terms">Data-Characteristic Terms</a>
 
 * **Data Observability:** Observing the performance of and tracking/monitoring data at any point in its lifecycle.
 * **Data Quality:** How accurate and consistent data are. Can the data be used to perform reliable analysis and make informed decisions?
