@@ -1,5 +1,13 @@
 # Data Repositories Overview
-Six data repository types/architectures include the following:
+  
+#### Table of Contents:
+  
+1. Six Data Repository Types/Architectures
+2. Data-Characteristic Terms
+  
+<hr />
+  
+## 1. Data Repository Types/Architectures
   
 * **Data Fabric:** Allows for distributed data to be quickly and easily accessed, managed, and integrated, uniting data from various sources and providing integration, orchestration, governance, and virtualization.
   + Data silos (data that are disconnected from other parts/units of an organization and its system) can have their data analyzed and readily accessed to support concentrated and informed decision-making.
@@ -17,7 +25,9 @@ Six data repository types/architectures include the following:
   + Data structure is provided through the use of schemas and models, which are predefined by developers/engineers.
   + The transforming of data from source systems to a consistent format used by data warehouses is called 'extracted, transformed, and loaded', or 'ETL'.
 
-Two more relevant data-characteristic terms include:
+<hr />
+  
+## 2. Data-Characteristic Terms
 
 * **Data Observability:** Observing the performance of and tracking/monitoring data at any point in its lifecycle.
 * **Data Quality:** How accurate and consistent data are. Can the data be used to perform reliable analysis and make informed decisions?
