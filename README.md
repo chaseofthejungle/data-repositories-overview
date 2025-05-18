@@ -4,6 +4,7 @@
   
 1. [Six Data Repository Types/Architectures](#data-repository)
 2. [Data-Characteristic Terms](#data-terms)
+3. [Supplemental Resources](#supplemental)
   
 <hr />
   
@@ -46,5 +47,14 @@
 * **Data Quality**
   + How accurate and consistent data are.
     - Can the data be used to perform reliable analysis and make informed decisions?
+  
+<hr />
+
+## 3. <a name="supplemental">Supplemental Resources</a>
+  
+* *[Data Analysis Tools Overview Guide](https://github.com/chaseofthejungle/data-analysis-tools-overview-guide)*
+* *[Overview of Database Types](https://github.com/chaseofthejungle/types-of-databases)*
+  
+<hr />
   
 TODO: Add examples of different data repo types and how they operate.
