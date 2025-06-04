@@ -54,6 +54,7 @@
   
 * *[Data Analysis Tools Overview Guide](https://github.com/chaseofthejungle/data-analysis-tools-overview-guide)*
 * *[Overview of Database Types](https://github.com/chaseofthejungle/types-of-databases)*
+* *[Intro to Structured Query Language (SQL)](https://github.com/chaseofthejungle/intro-to-sql/)*
   
 <hr />
   
